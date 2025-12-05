@@ -1,2 +1,4 @@
-.ipynb_checkpoint/
+.ipynb_checkpoints/
 env/
+.env.local
+.DS_Store
